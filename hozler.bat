@@ -26,3 +26,4 @@ taskkill /f /im "hozlerbytebeat5.exe" >nul
 taskkill /f /im "cursorrandom.exe" >nul
 taskkill /f /im "gdi.exe" >nul
 taskkill /f /im "salewingdi.exe" >nul
+taskkill /f /im "invert.exe" >nul
